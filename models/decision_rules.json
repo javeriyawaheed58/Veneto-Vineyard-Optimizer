@@ -1,0 +1,6 @@
+{
+    "target_moisture_threshold": 35.0,
+    "severe_stress_limit": 20.0,
+    "mild_stress_limit": 28.0,
+    "flow_rate_per_zone": 15.0
+}

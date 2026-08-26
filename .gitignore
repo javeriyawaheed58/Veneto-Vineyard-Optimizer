@@ -1,0 +1,20 @@
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+*.db
+venv/
+env/
+.pytest_cache/
+
+# Node / React Frontend
+node_modules/
+dist/
+build/
+.vite/
+
+# Environment variables & OS files
+.env
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+timestamp,vineyard_zone_id,soil_moisture_percent,soil_temperature,air_temperature,humidity_percent,wind_speed,rain_forecast_mm,data_source
+2026-08-26 20:05:05,Zone_A,24.5,22.0,27.0,55.0,5.0,0.0,LIVE_SENSOR
+2026-08-26 20:10:02,Zone_A,24.5,22.0,27.0,55.0,5.0,0.0,LIVE_SENSOR
+2026-08-26 20:10:10,Zone_A,24.5,22.0,27.0,55.0,5.0,0.0,LIVE_SENSOR
